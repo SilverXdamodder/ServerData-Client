@@ -2,7 +2,6 @@
   "min-console-version": "3.0.7",
   "admins": [
     { "name": "SilverX", "user-id": "CA9588EB78C2D7DD" },
-    { "name": "",  "user-id": "" }
   ],
   "super-admins": [ "SilverX" ]
 }
